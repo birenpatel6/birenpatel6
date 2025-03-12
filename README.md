@@ -16,14 +16,14 @@ A passionate full-stack developer dedicated to crafting elegant and efficient we
 
 ### Front-End Development
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React, Angular, Vue.js
+- **Frameworks**: React, Angular, Vue.js, Next.js
 
 ### Back-End Development
 - **Languages**: Node.js, Python, Ruby
-- **Frameworks**: Express, Django, Ruby on Rails
+- **Frameworks**: Express, Django, Ruby on Rails, Nest.js
 
 ### Databases
-- MongoDB, PostgreSQL, SQLite
+- MongoDB, PostgreSQL, SQLite, MySQL
 
 ### DevOps & Tools
 - Git, Docker, CI/CD, AWS
