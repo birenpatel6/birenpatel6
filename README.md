@@ -6,7 +6,7 @@ A passionate full-stack developer dedicated to crafting elegant and efficient we
 
 ## 🚀 Quick Facts
 
-- **Location**: [Your Location]
+- **Location**: Texas
 - **Experience**: [X years in full-stack development]
 - **Interests**: Web development, open-source, and innovative technologies.
 
