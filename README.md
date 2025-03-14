@@ -16,7 +16,7 @@ A passionate full-stack developer dedicated to crafting elegant and efficient we
 
 ### Front-End Development
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: React, Angular, Vue.js, Next.js
+- **Frameworks**: React, Angular, Vue.js, Next.js, Nuxt.js
 
 ### Back-End Development
 - **Languages**: Node.js, Python, Ruby
