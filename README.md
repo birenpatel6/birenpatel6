@@ -3,6 +3,8 @@
 A passionate full-stack developer dedicated to crafting elegant and efficient web applications. I enjoy turning ideas into reality and solving complex problems with code.
 
 ---
+---
+---
 
 ## 🚀 Quick Facts
 
