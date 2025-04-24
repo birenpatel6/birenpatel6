@@ -34,7 +34,7 @@ Constant learner ▸ shipping polished code & positive vibes
 <details>
   <summary>🚀 What I’m doing now</summary>
 
-- ⚙️ Designing **event‑driven .NET 8** services on **Azure Container Apps** & **AWS Fargate**  
+- ⚙️ Designing **event‑driven .NET** services on **Azure Container Apps** & **AWS Fargate**  
 - 🧩 Rolling out **Angular and React + Next.js micro‑frontends** with **Nx** workspaces  
 - 🗂️ Automating infra via **Terraform**, **Bicep**, and **GitHub Actions**  
 - 🧑‍🎓 Coaching teams in clean architecture & domain‑driven design  
