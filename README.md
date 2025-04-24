@@ -1,6 +1,6 @@
 # Hi, I’m **Biren Patel** — Senior Software Architect 👋  
 
-I design resilient, cloud‑native systems with **.NET 8, React/Next.js, Angular, Azure, AWS, and Kubernetes**.  
+I design resilient, cloud‑native systems with **.NET, React/Next.js, Angular, Azure, AWS, and Kubernetes**.  
 Recent wins: ↘ 30 % cloud spend, ↗ 50 % faster releases, UI design system adopted by 12 teams.  
 I mentor devs into architects and keep code clean, domain‑driven, and test‑first.  
 
@@ -35,7 +35,7 @@ Constant learner ▸ shipping polished code & positive vibes
   <summary>🚀 What I’m doing now</summary>
 
 - ⚙️ Designing **event‑driven .NET 8** services on **Azure Container Apps** & **AWS Fargate**  
-- 🧩 Rolling out **React + Next.js micro‑frontends** with **Nx** workspaces  
+- 🧩 Rolling out **Angular and React + Next.js micro‑frontends** with **Nx** workspaces  
 - 🗂️ Automating infra via **Terraform**, **Bicep**, and **GitHub Actions**  
 - 🧑‍🎓 Coaching teams in clean architecture & domain‑driven design  
 </details>
