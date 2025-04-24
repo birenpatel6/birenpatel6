@@ -62,8 +62,10 @@ Constant learner ▸ shipping polished code & positive vibes
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=birenpatel6&theme=transparent&show_icons=true&rank_icon=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birenpatel6&layout=compact&theme=transparent" height="165"/>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=birenpatel6&theme=transparent&show_icons=true&rank_icon=default" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birenpatel6&layout=compact&theme=transparent" height="165"/>
+  </div>
 </p>
 
 ---
